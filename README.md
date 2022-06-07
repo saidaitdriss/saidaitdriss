@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saidaitdriss
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning elasticSearch
+- 🌱 I’m currently learning ElasticSearch
 <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me 
 
